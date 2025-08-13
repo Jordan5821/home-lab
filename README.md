@@ -24,4 +24,9 @@ Practice and master AWS Cloud
 Security
 Prepare for a 100k+ cybersecurity
 role
-
+## Lab Screenshot]
+### Audio Device Screenshot]
+{link-to-your-image]
+**Description:**Setting up audio
+devices in the lab environment before
+beginning security analysis task.
