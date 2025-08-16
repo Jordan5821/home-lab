@@ -30,3 +30,21 @@ role
 **Description:**Setting up audio
 devices in the lab environment before
 beginning security analysis task.
+### Weekly Progress
+### Week 2 - Networking & Logs
+Praticed IP deection and port
+scanning
+Reviewed login logs and process
+monitoring
+### Week 3 -Core Processes & Fake
+Pids
+### Week 4 - Home Lab Setup
+Setting up virtual machines and 
+security tools
+Preparing for SOC-style monitoring
+labs
+### Week 5 - Log Monitoring &
+Detection Tools
+Practicing with SIEM (Splunk/ELK)
+Packet capture and intrusion
+detection
