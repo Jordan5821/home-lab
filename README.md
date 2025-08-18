@@ -32,19 +32,24 @@ devices in the lab environment before
 beginning security analysis task.
 ### Weekly Progress
 ### Week 2 - Networking & Logs
-Praticed IP deection and port
+Practiced IP detection and port
 scanning
-Reviewed login logs and process
-monitoring
-### Week 3 -Core Processes & Fake
-Pids
+Reviewed login logs
+Practiced process monitoring
+### Week 3 - Core Processes & Fake
+PIDs
+Investigated fake process IDs (PIDs)
+Monitored login activity and
+suspicious processes
+Compare Linux commands vs. logs for
+failed logins
+Matched results in Wireshark (ping,
+SSH, HTTP traffic)
 ### Week 4 - Home Lab Setup
-Setting up virtual machines and 
-security tools
+Setting up virtual machine (VMs)
+Installing security tools
 Preparing for SOC-style monitoring
 labs
-### Week 5 - Log Monitoring &
-Detection Tools
-Practicing with SIEM (Splunk/ELK)
-Packet capture and intrusion
-detection
+
+
+
